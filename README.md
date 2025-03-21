@@ -47,7 +47,7 @@ You can analyze videos using one of the following methods:
 ---
 
 ## 🛠️ Tech Stack  
-- **Python**  
+- **Python3**  
 - **TensorFlow** (For Crowd Detection Model)  
 - **PyTorch** (For Gender & Violence Detection Models)  
 - **OpenCV** (For Video Processing)  
