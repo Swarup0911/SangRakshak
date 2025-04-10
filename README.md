@@ -64,4 +64,4 @@ You can analyze videos using one of the following methods:
 3. **Crowd Detection Model** – Recognizes the presence of a crowd.  
 
 These models work together to evaluate the safety of an environment in real-time.  
-- MLWARRIORS
+
